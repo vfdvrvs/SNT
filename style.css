@@ -1,0 +1,174 @@
+body{
+    margin: 20px 10%;
+}
+.historique{
+    background-color: rgba(192, 209, 255, 0.925);
+}
+.para{
+    background-color: rgba(122, 196, 132, 0.849);
+}
+.service{
+    background-color: rgba(243, 184, 197, 0.952);
+
+}
+.service h1{
+    color: rgba(197, 117, 135, 0.952);
+    text-shadow: 2px 5px 5px rgb(209, 156, 168);
+    margin-left: 30%;
+}
+.para h1{
+    margin-left: 15%;
+    color: rgba(69, 124, 76, 0.959);
+    text-shadow: 2px 5px 5px rgba(119, 173, 127, 0.959);
+}
+#p{
+    width: 350px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+img{
+    width: 500px;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+.para img{
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 0;
+}
+h1{
+    font-size: 65px;
+    margin-left: 20%;
+}
+.historique h1{
+    color: rgb(49, 79, 146);
+    text-shadow: 2px 5px 5px rgba(126, 162, 241, 0.815);
+}
+.historique h2{
+    font-size: 40px;
+    color: rgb(58,90,158);
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+#facebookgif{
+    border: 3px solid rgb(32, 11, 128); 
+}
+#instagif{
+    border: 3px solid rgb(193,79,107); 
+}
+#tiktokgif{
+    border: 3px solid rgba(0, 0, 0, 0.897); 
+}
+#logo{
+    width: 300px;
+    margin-left: 35%;
+    margin-top: 0;
+}
+footer{
+    text-align: center;
+    margin-left: 0;
+}
+li{
+    font-size: 25px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.para h2{
+    font-size: 50px;
+    color: rgb(60, 107, 66);
+}
+#facebook-cles-securite{
+    border: 3px solid rgb(60, 107, 66);
+}
+#securitygif{
+    border: 3px solid rgb(74, 146, 204);
+    height: 300px;
+}
+.para ul{
+align-items: center;
+justify-content: center;
+}
+#com{
+    width: 400px;
+    margin-left: 32% ;
+    border: 3px solid rgba(197, 117, 135, 0.952);
+}
+.service h2{
+    font-size: 50px;
+    color: rgba(196, 108, 127, 0.952);
+}
+#message{
+    border: 3px solid rgb(74, 146, 204);
+}
+#communiquer{
+    border: 3px solid rgb(23, 65, 99);
+}
+#scroll{
+    border: 3px solid rgb(17, 0, 255);
+}
+.pdg{
+    background-color: rgb(235, 235, 198);
+}
+.pdg h1{
+    margin-left: 30%;
+    color: rgba(86, 48, 122, 0.959);
+    text-shadow: 2px 5px 5px rgba(196, 170, 223, 0.959);
+}
+.pdg h3{
+    font-size: 25px;
+    text-align: center;
+    color: rgba(99, 76, 122, 0.959);
+}
+#pdg{
+    width: 375px;
+     margin-left: 35%;
+     margin-top: -50px;
+     margin-bottom: -70px;
+}
+td{
+    font-size: 35px;
+    text-align: center;
+}
+table{
+    margin-left: 32%;
+}
+a:visited{
+    color: rgb(58,90,158);
+}
+a:hover{
+    color: rgb(193,79,107); ;
+}
+h5{
+    font-size: 18px;
+    margin-left: 850px;
+}
+button{
+    font-size: 30px;
+    margin-left: 0;
+    background-color: rgba(126, 162, 241, 0.815);
+    border-color: rgb(58,90,158); 
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#license{
+    margin-left: -20px;
+    height: 30px;
+    margin-top: -50px;
+
+}
+#p1{
+    margin-left:70px;
+    height: 30px;
+   margin-bottom: -22px;
+    
+}
